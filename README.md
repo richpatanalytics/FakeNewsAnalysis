@@ -1,5 +1,7 @@
 # FakeNewsAnalysis
-The objective of our project is to source new articles and then train a model to predict whether news articles are real or fake news.
+The objective of this project is twofold:
+(1) To source news articles and then train a model to predict real news or fake news.
+(2) Given a new article, can we tell whether it is fake news or real news?
 
 Syracuse University IST 736 Text Mining Final Project
 
