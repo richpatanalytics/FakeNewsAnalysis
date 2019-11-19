@@ -8,7 +8,8 @@ Syracuse University IST 736 Text Mining Final Project
 Contributors: Richard Dzidzornu, Richard Paterson, Michael Znidarsic
 # Storyboard
 ## In Progress
-- [ ] Project Checkpoint 1
+- [ ] Identify sources
+- [ ] Clarify approach
 ## ToDo (initial thoughts!)
 - [ ] Gather data - initial acquisition and analysis of data
 - [ ] Associated Rules mining
@@ -20,3 +21,4 @@ Contributors: Richard Dzidzornu, Richard Paterson, Michael Znidarsic
 - [ ] Presentation slides: Ppt
 ## Complete
 - [x] Obtained initial data for observation from [Kaggle All-The-New](https://www.kaggle.com/snapcrack/all-the-news)
+- [x] Project Overview (delivered and agreed 11/6)
