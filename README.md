@@ -27,3 +27,4 @@ Contributors: Richard Dzidzornu, Richard Paterson, Michael Znidarsic
 ## Execution Instructions
 - [Step 1: Create File Based Corpus](https://github.com/richpatanalytics/FakeNewsAnalysis/blob/master/FakeNewsExecutionInstructions.pptx)
 - [Step 2: Mallet Topic Modeling](https://github.com/richpatanalytics/FakeNewsAnalysis/blob/master/FakeNewsExecutionInstructions.pptx)
+- [Step 3: Mallet Charting](https://github.com/richpatanalytics/FakeNewsAnalysis/blob/master/FakeNewsExecutionInstructions.pptx)
