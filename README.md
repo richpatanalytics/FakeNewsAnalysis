@@ -22,3 +22,6 @@ Contributors: Richard Dzidzornu, Richard Paterson, Michael Znidarsic
 ## Complete
 - [x] Obtained initial data for observation from [Kaggle All-The-New](https://www.kaggle.com/snapcrack/all-the-news)
 - [x] Project Overview (delivered and agreed 11/6)
+- [x] Create File Based Corpus from file with labeled observations
+## Execution Instructions
+- [Step 1: Create File Based Corpus](FakeNewsExecutionInstructions.pptx)
