@@ -1,0 +1,275 @@
+Message number1:1==>Fri Nov 29 16:30:16 2019
+Message number2:1==>Startup parameter settings
+	None
+	None
+Message number3:1==>Create temporary pipe-delimited from input file
+Message number4:1==>Parsing MALLET logfile =>FNb_log_20191129_141306.txt<=
+Message number4:2==>No records on MALLET logfile =>866<=
+Message number4:3==>From MALLET logfile, created =>150<= ll/token records for further analysis
+Message number5:1==>Input set is >=lltoken  Input set is >=lltoken  Input set is >=lltoken  Input set is >=lltoken  Input set is >=lltoken  
+Message number5:2==>Describe RAW data (long)
+Message number5:3==>========================
+Message number5:4==>Describe shape
+	((150, 12), 'cols', 12, 'rows', 150)
+Message number5:5==>Describe count of null
+	rowlabel         0
+	iter             0
+	date             0
+	time             0
+	type             0
+	dataset          0
+	numtopics        0
+	numiterations    0
+	max              0
+	total            0
+	numll            0
+	valll            0
+	dtype: int64
+Message number5:6==>Describe dtypes
+	rowlabel          object
+	iter               int64
+	date              object
+	time              object
+	type              object
+	dataset           object
+	numtopics          int64
+	numiterations      int64
+	max                int64
+	total              int64
+	numll              int64
+	valll            float64
+	dtype: object
+Message number5:7==>Show 1st 5 lines (aka head)
+	          rowlabel  iter        date         time  ... max  total  numll    valll
+	0  mallett-lltoken     1  11/29/2019  14:14:08.63  ...  41  92135     10 -8.69982
+	1  mallett-lltoken     1  11/29/2019  14:14:08.63  ...  41  92135     20 -8.59812
+	2  mallett-lltoken     1  11/29/2019  14:14:08.63  ...  41  92135     30 -8.53972
+	3  mallett-lltoken     1  11/29/2019  14:14:08.63  ...  41  92135     40 -8.50640
+	4  mallett-lltoken     1  11/29/2019  14:14:08.63  ...  41  92135     50 -8.47510
+	
+	[5 rows x 12 columns]
+Message number5:8==>Show describe
+	        iter   numtopics  numiterations    max    total       numll       valll
+	count  150.0  150.000000          150.0  150.0    150.0  150.000000  150.000000
+	mean     1.0   18.500000          150.0   41.0  92135.0   80.000000   -8.666440
+	std      0.0   15.616525            0.0    0.0      0.0   43.349679    0.213479
+	min      1.0    2.000000          150.0   41.0  92135.0   10.000000   -9.544320
+	25%      1.0    6.000000          150.0   41.0  92135.0   40.000000   -8.735212
+	50%      1.0   12.500000          150.0   41.0  92135.0   80.000000   -8.616655
+	75%      1.0   30.000000          150.0   41.0  92135.0  120.000000   -8.521820
+	max      1.0   50.000000          150.0   41.0  92135.0  150.000000   -8.425600
+Message number6:1==>Chart for ll/token value for ALL datasets per NumTopics
+ (100 Training Iterations, Report ll/token Every 10)
+Message number7:1==>Load Mallet key file data from =>FNb_mallet_1_ALL_50_keys.txt<=
+Message number8:1==>Input set is >=keys  Input set is >=keys  Input set is >=keys  Input set is >=keys  Input set is >=keys  
+Message number8:2==>Describe RAW data (long)
+Message number8:3==>========================
+Message number8:4==>Describe shape
+	((50, 3), 'cols', 3, 'rows', 50)
+Message number8:5==>Describe count of null
+	0    0
+	1    0
+	2    0
+	dtype: int64
+Message number8:6==>Describe dtypes
+	0      int64
+	1    float64
+	2     object
+	dtype: object
+Message number8:7==>Show 1st 5 lines (aka head)
+	   0    1                                                  2
+	0  0  0.1  weve day time david prices good gas deal histo...
+	1  1  0.1  bill stimulus million voted passed billion tra...
+	2  2  0.1  percent small businesses business texas increa...
+	3  3  0.1  jobs created job lost million growth state pri...
+	4  4  0.1  budget billion spending state cut deficit year...
+Message number8:8==>Show describe
+	              0             1
+	count  50.00000  5.000000e+01
+	mean   24.50000  1.000000e-01
+	std    14.57738  2.803737e-17
+	min     0.00000  1.000000e-01
+	25%    12.25000  1.000000e-01
+	50%    24.50000  1.000000e-01
+	75%    36.75000  1.000000e-01
+	max    49.00000  1.000000e-01
+Message number9:1==>Load Mallet topics file data from =>FNb_mallet_1_ALL_50_topics.txt<=
+Message number10:1==>Input set is >=topics  Input set is >=topics  Input set is >=topics  Input set is >=topics  Input set is >=topics  
+Message number10:2==>Describe RAW data (long)
+Message number10:3==>========================
+Message number10:4==>Describe shape
+	((10269, 52), 'cols', 52, 'rows', 10269)
+Message number10:5==>Describe count of null
+	0     0
+	1     0
+	2     0
+	3     0
+	4     0
+	5     0
+	6     0
+	7     0
+	8     0
+	9     0
+	10    0
+	11    0
+	12    0
+	13    0
+	14    0
+	15    0
+	16    0
+	17    0
+	18    0
+	19    0
+	20    0
+	21    0
+	22    0
+	23    0
+	24    0
+	25    0
+	26    0
+	27    0
+	28    0
+	29    0
+	30    0
+	31    0
+	32    0
+	33    0
+	34    0
+	35    0
+	36    0
+	37    0
+	38    0
+	39    0
+	40    0
+	41    0
+	42    0
+	43    0
+	44    0
+	45    0
+	46    0
+	47    0
+	48    0
+	49    0
+	50    0
+	51    0
+	dtype: int64
+Message number10:6==>Describe dtypes
+	0       int64
+	1      object
+	2     float64
+	3     float64
+	4     float64
+	5     float64
+	6     float64
+	7     float64
+	8     float64
+	9     float64
+	10    float64
+	11    float64
+	12    float64
+	13    float64
+	14    float64
+	15    float64
+	16    float64
+	17    float64
+	18    float64
+	19    float64
+	20    float64
+	21    float64
+	22    float64
+	23    float64
+	24    float64
+	25    float64
+	26    float64
+	27    float64
+	28    float64
+	29    float64
+	30    float64
+	31    float64
+	32    float64
+	33    float64
+	34    float64
+	35    float64
+	36    float64
+	37    float64
+	38    float64
+	39    float64
+	40    float64
+	41    float64
+	42    float64
+	43    float64
+	44    float64
+	45    float64
+	46    float64
+	47    float64
+	48    float64
+	49    float64
+	50    float64
+	51    float64
+	dtype: object
+Message number10:7==>Show 1st 5 lines (aka head)
+	   0                                                  1   ...        50        51
+	0   0  file:/C:/Users/Richpat/Documents/@syracuse%20c...  ...  0.007143  0.007143
+	1   1  file:/C:/Users/Richpat/Documents/@syracuse%20c...  ...  0.007692  0.007692
+	2   2  file:/C:/Users/Richpat/Documents/@syracuse%20c...  ...  0.150000  0.007143
+	3   3  file:/C:/Users/Richpat/Documents/@syracuse%20c...  ...  0.006667  0.006667
+	4   4  file:/C:/Users/Richpat/Documents/@syracuse%20c...  ...  0.012500  0.012500
+	
+	[5 rows x 52 columns]
+Message number10:8==>Show describe
+	                 0             2   ...            50            51
+	count  10269.000000  10269.000000  ...  10269.000000  10269.000000
+	mean    5134.000000      0.017279  ...      0.020307      0.019557
+	std     2964.549291      0.038752  ...      0.049323      0.045235
+	min        0.000000      0.002273  ...      0.002174      0.002174
+	25%     2567.000000      0.006250  ...      0.006250      0.006250
+	50%     5134.000000      0.007692  ...      0.007692      0.007692
+	75%     7701.000000      0.009091  ...      0.010000      0.010000
+	max    10268.000000      0.636842  ...      0.591667      0.631250
+	
+	[8 rows x 51 columns]
+Message number10:9==>Flatten Mallet topics file
+Message number10:10==>iteration ==>0<== of ==>10269<==
+Message number10:11==>iteration ==>1000<== of ==>10269<==
+Message number10:12==>iteration ==>2000<== of ==>10269<==
+Message number10:13==>iteration ==>3000<== of ==>10269<==
+Message number10:14==>iteration ==>4000<== of ==>10269<==
+Message number10:15==>iteration ==>5000<== of ==>10269<==
+Message number10:16==>iteration ==>6000<== of ==>10269<==
+Message number10:17==>iteration ==>7000<== of ==>10269<==
+Message number10:18==>iteration ==>8000<== of ==>10269<==
+Message number10:19==>iteration ==>9000<== of ==>10269<==
+Message number10:20==>iteration ==>10000<== of ==>10269<==
+Message number11:1==>Iterate thru this parameter set
+	[['unigram_count_1', 'CountVectorizer', 0.4, 8, 'english', 1, False, 'word', '(?ui)\\b\\w*[a-z]+\\w*\\b', 4000, 5]]
+Message number12:1==>Processing label ==>Veracity<==
+Message number13:1==>Creating underlying data files
+Message number13:2==>Made a list containing all underlying data files =>10269
+Message number13:3==>first 20 file paths are ...
+	['./liar_data_files\\barely-true\\10001.json', './liar_data_files\\barely-true\\10002.json', './liar_data_files\\barely-true\\10003.json', './liar_data_files\\barely-true\\10006.json', './liar_data_files\\barely-true\\10023.json', './liar_data_files\\barely-true\\10036.json', './liar_data_files\\barely-true\\10047.json', './liar_data_files\\barely-true\\10048.json', './liar_data_files\\barely-true\\10066.json', './liar_data_files\\barely-true\\10067.json', './liar_data_files\\barely-true\\10077.json', './liar_data_files\\barely-true\\10080.json', './liar_data_files\\barely-true\\10083.json', './liar_data_files\\barely-true\\10093.json', './liar_data_files\\barely-true\\10095.json', './liar_data_files\\barely-true\\10100.json', './liar_data_files\\barely-true\\10105.json', './liar_data_files\\barely-true\\10108.json', './liar_data_files\\barely-true\\1011.json', './liar_data_files\\barely-true\\10116.json']
+Message number13:4==>first 20 labels are ...
+	['bt', 'bt', 'bt', 'bt', 'bt', 'bt', 'bt', 'bt', 'bt', 'bt', 'bt', 'bt', 'bt', 'bt', 'bt', 'bt', 'bt', 'bt', 'bt', 'bt']
+Message number14:1==>Chart for Distribution of Observations by Label for Dataset =>Veracity<=
+Message number15:1==>Chart for Distribution of Best Topic by Document for Dataset =>Veracity<=
+Message number16:1==>Chart for Distribution of Best Topic by Document for Dataset =>Veracity<=
+Message number17:1==>Iteration number =>1<= rule name =>unigram_count_1<= with process =>T+T<= and vectorizer =>CountVectorizer<=
+Message number17:2==>min_df_sel==>8 max_df_sel==>0.4
+Message number17:3==>CountVectorizer with filename list as input
+Message number17:4==>Show feature names
+Message number17:5==>Number of features
+	2077
+Message number17:6==>First 40 features
+	['1970s', '1990s', 'abbott', 'ability', 'able', 'abortion', 'abortions', 'absolutely', 'abuse', 'accept', 'accepted', 'access', 'accidents', 'according', 'account', 'accountability', 'accounts', 'accused', 'acorn', 'act', 'action', 'actions', 'active', 'activity', 'actual', 'actually', 'ad', 'add', 'added', 'adding', 'additional', 'address', 'adjusted', 'administration', 'administrations', 'admits', 'adopted', 'ads', 'adults', 'advanced']
+Message number17:7==>Now we have a builder DTM
+Message number17:8==>Shape of Topic Model (DTM)
+	(10269, 2077)
+Message number17:9==>Number of empty cells in DTM
+	21250574
+Message number17:10==>Number of cells with a value in DTM
+	78139
+Message number17:11==>Sum of values in DTM
+	81553
+Message number17:12==>Generate wordcloud
+Message number18:1==>Model execution requested - NOTHING TO RUN
+Message number19:1==>Print table of all KPIs
+Message number20:1==>Fri Nov 29 16:32:59 2019

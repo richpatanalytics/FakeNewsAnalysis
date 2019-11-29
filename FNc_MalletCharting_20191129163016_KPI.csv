@@ -1,0 +1,2 @@
+KPIcounter,whichLabel,createCorpus,cvIter,Vrulename,Vvtype,Vwhichprocess,Vmax_df_sel,Vmin_df_sel,Vstopwords,Vngramlength,Vlowercase,Vanalyzer,Vtokenpattern,Vmaxfeatures,VlSVCconverge,mustVectorize,mustModel,NoObservations,NoFeatures,cntCellsEmpty,cntCellsWithVal,sumCellsWithVal
+1,Veracity,Files,1,unigram_count_1,CountVectorizer,T+T,0.4,8,english,1,False,word,(?ui)\b\w*[a-z]+\w*\b,4000,5,1,1,10269,2077,21250574,78139,81553

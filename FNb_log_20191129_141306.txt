@@ -1,0 +1,866 @@
+start 
+iter 1 import Fri 11/29/2019 14:13:06.59 with files in liar_data_files topics 2 num_iterations 150 FNb_mallet_1_ALL_2_file.mallet FNb_mallet_1_ALL_2_outputstate.gz FNb_mallet_1_ALL_2_keys.txt FNb_mallet_1_ALL_2_topics.txt 
+Labels = 
+   liar_data_files
+iter 1 train Fri 11/29/2019 14:14:08.63 with files in liar_data_files topics 2 num_iterations 150 FNb_mallet_1_ALL_2_file.mallet FNb_mallet_1_ALL_2_outputstate.gz FNb_mallet_1_ALL_2_keys.txt FNb_mallet_1_ALL_2_topics.txt
+Mallet LDA: 2 topics, 1 topic bits, 1 topic mask
+Data loaded.
+max tokens: 41
+total tokens: 92135
+<10> LL/token: -8.69982
+<20> LL/token: -8.59812
+<30> LL/token: -8.53972
+<40> LL/token: -8.5064
+
+0	2.5	percent state years tax states obama president taxes budget year country united texas rate cut barack billion spending time school 
+1	2.5	health care jobs million people bill government u.s law federal money clinton year plan americans senate republican obamacare insurance hillary 
+
+<50> LL/token: -8.4751
+<60> LL/token: -8.46454
+<70> LL/token: -8.45519
+<80> LL/token: -8.45062
+<90> LL/token: -8.44655
+
+0	2.5	percent state obama years states president tax taxes barack budget country texas year united rate cut people time spending public 
+1	2.5	health care million jobs bill people u.s government law federal voted plan money clinton year americans senate republican obamacare insurance 
+
+<100> LL/token: -8.43883
+<110> LL/token: -8.43842
+<120> LL/token: -8.43309
+<130> LL/token: -8.43377
+<140> LL/token: -8.43298
+
+0	2.5	percent state years obama states president year tax texas taxes barack budget country united billion rate people cut time wisconsin 
+1	2.5	health care million jobs bill federal u.s voted people government law plan money tax clinton americans senate republican obamacare insurance 
+
+<150> LL/token: -8.4256
+
+Total time: 1 seconds
+iter 1 import Fri 11/29/2019 14:14:11.44 with files in liar_data_files topics 4 num_iterations 150 FNb_mallet_1_ALL_4_file.mallet FNb_mallet_1_ALL_4_outputstate.gz FNb_mallet_1_ALL_4_keys.txt FNb_mallet_1_ALL_4_topics.txt 
+Labels = 
+   liar_data_files
+iter 1 train Fri 11/29/2019 14:14:14.53 with files in liar_data_files topics 4 num_iterations 150 FNb_mallet_1_ALL_4_file.mallet FNb_mallet_1_ALL_4_outputstate.gz FNb_mallet_1_ALL_4_keys.txt FNb_mallet_1_ALL_4_topics.txt
+Mallet LDA: 4 topics, 2 topic bits, 11 topic mask
+Data loaded.
+max tokens: 41
+total tokens: 92135
+<10> LL/token: -8.95272
+<20> LL/token: -8.72859
+<30> LL/token: -8.63821
+<40> LL/token: -8.58833
+
+0	1.25	tax state percent taxes year pay cut republican public years average voted million texas billion income cost school increase county 
+1	1.25	percent states united rate u.s people security medicare unemployment world voted trump country oil social today donald republicans support texas 
+2	1.25	obama health president care barack years federal year jobs billion government million office debt insurance budget law americans bush administration 
+3	1.25	clinton bill jobs wisconsin u.s people hillary scott state gov illegal senate women law rick american million obamacare gun romney 
+
+<50> LL/token: -8.55611
+<60> LL/token: -8.53902
+<70> LL/token: -8.52757
+<80> LL/token: -8.52037
+<90> LL/token: -8.51107
+
+0	1.25	tax percent state taxes pay cut year republican voted school public average years billion governor texas income cost increase county 
+1	1.25	states percent united people rate u.s country security medicare unemployment america world trump oil social texas donald republicans voted support 
+2	1.25	obama health president care million jobs barack year years federal government billion office insurance debt budget people plan percent day 
+3	1.25	bill clinton state law hillary scott senate gov u.s illegal wisconsin campaign rick federal gun congress dont passed jobs obamacare 
+
+<100> LL/token: -8.50384
+<110> LL/token: -8.4899
+<120> LL/token: -8.49181
+<130> LL/token: -8.48827
+<140> LL/token: -8.48202
+
+0	1.25	state tax percent taxes year pay cut years republican public texas school average billion budget governor florida income increase cost 
+1	1.25	states percent people united rate country security medicare unemployment world trump oil social america donald u.s republicans support highest today 
+2	1.25	obama health president care million jobs barack government year years federal people office insurance debt billion americans law plan day 
+3	1.25	u.s bill voted clinton senate hillary scott illegal campaign law john rick house gov gun congress wisconsin obamacare passed women 
+
+<150> LL/token: -8.47355
+
+Total time: 1 seconds
+iter 1 import Fri 11/29/2019 14:14:17.10 with files in liar_data_files topics 6 num_iterations 150 FNb_mallet_1_ALL_6_file.mallet FNb_mallet_1_ALL_6_outputstate.gz FNb_mallet_1_ALL_6_keys.txt FNb_mallet_1_ALL_6_topics.txt 
+Labels = 
+   liar_data_files
+iter 1 train Fri 11/29/2019 14:14:19.97 with files in liar_data_files topics 6 num_iterations 150 FNb_mallet_1_ALL_6_file.mallet FNb_mallet_1_ALL_6_outputstate.gz FNb_mallet_1_ALL_6_keys.txt FNb_mallet_1_ALL_6_topics.txt
+Mallet LDA: 6 topics, 3 topic bits, 111 topic mask
+Data loaded.
+max tokens: 41
+total tokens: 92135
+<10> LL/token: -9.05237
+<20> LL/token: -8.75186
+<30> LL/token: -8.64314
+<40> LL/token: -8.59186
+
+0	0.83333	billion budget tax debt security medicare national spending social cut john years dollars economy cuts plan day cost u.s trillion 
+1	0.83333	health care law people insurance trump million women donald americans government obamacare federal act reform employees immigration plan percent bill 
+2	0.83333	u.s voted senate republican bill house vote campaign democrats candidate passed sen congress immigrants court rep party state support democratic 
+3	0.83333	state jobs percent million years year texas school scott wisconsin public money unemployment gov job governor romney schools created lost 
+4	0.83333	obama president barack clinton hillary bush administration rick obamas war military george iraq american made dont deal times rhode called 
+5	0.83333	percent states tax taxes united people country pay year rate world income years today highest work america federal raise average 
+
+<50> LL/token: -8.55759
+<60> LL/token: -8.52617
+<70> LL/token: -8.51189
+<80> LL/token: -8.49851
+<90> LL/token: -8.48965
+
+0	0.83333	billion budget debt security plan cut medicare tax national spending u.s million social cuts years year economy cost dollars paid 
+1	0.83333	health care law people federal insurance obamacare women americans trump government donald act immigration make reform dont illegal abortion employees 
+2	0.83333	voted u.s bill senate republican house vote democrats congress candidate passed sen state immigrants court republicans campaign party democratic time 
+3	0.83333	state jobs percent years million texas wisconsin public school scott year gov governor unemployment money job education romney florida schools 
+4	0.83333	obama president barack clinton hillary bush administration rick obamas war military gun george american iraq times days called nuclear iran 
+5	0.83333	percent states tax taxes country united people year rate pay world income today years history average oil america highest time 
+
+<100> LL/token: -8.47896
+<110> LL/token: -8.46997
+<120> LL/token: -8.45784
+<130> LL/token: -8.45892
+<140> LL/token: -8.45672
+
+0	0.83333	billion budget year spending debt plan cut tax security medicare million dollars social cuts years day trillion national cost paid 
+1	0.83333	health care people law federal insurance government obamacare women americans trump donald dont act illegal immigration make reform texas bill 
+2	0.83333	u.s voted bill senate republican house vote democrats congress campaign republicans candidate passed sen immigrants party court democratic legislation florida 
+3	0.83333	state jobs percent years million public wisconsin school year scott texas gov governor unemployment job county education money romney schools 
+4	0.83333	obama president barack clinton hillary bush administration obamas times war american money military george iraq made didnt days called put 
+5	0.83333	percent states tax taxes country united rate people years pay world average income today year oil america highest work increase 
+
+<150> LL/token: -8.44491
+
+Total time: 1 seconds
+iter 1 import Fri 11/29/2019 14:14:22.73 with files in liar_data_files topics 8 num_iterations 150 FNb_mallet_1_ALL_8_file.mallet FNb_mallet_1_ALL_8_outputstate.gz FNb_mallet_1_ALL_8_keys.txt FNb_mallet_1_ALL_8_topics.txt 
+Labels = 
+   liar_data_files
+iter 1 train Fri 11/29/2019 14:14:25.79 with files in liar_data_files topics 8 num_iterations 150 FNb_mallet_1_ALL_8_file.mallet FNb_mallet_1_ALL_8_outputstate.gz FNb_mallet_1_ALL_8_keys.txt FNb_mallet_1_ALL_8_topics.txt
+Mallet LDA: 8 topics, 3 topic bits, 111 topic mask
+Data loaded.
+max tokens: 41
+total tokens: 92135
+<10> LL/token: -9.15376
+<20> LL/token: -8.84773
+<30> LL/token: -8.71292
+<40> LL/token: -8.63726
+
+0	0.625	state million money government year oil federal years school percent spent companies put office stimulus billion fund half gas florida 
+1	0.625	states united country percent texas rate city world illegal county people number highest america nation women immigrants years border crime 
+2	0.625	health care law security trump federal social donald americans plan act republicans bill people government passed support reform obamacare u.s 
+3	0.625	percent jobs years unemployment national year created average economy lost texas million people private time weve today months economic china 
+4	0.625	u.s clinton republican senate hillary voted bill house campaign candidate congress court supported party millions democratic election voting record made 
+5	0.625	budget billion state cut scott insurance spending gov million wisconsin medicare debt rick education year trillion bill obamacare walker deficit 
+6	0.625	tax taxes percent pay income people increase history cuts year raise voted american rates families americans top majority rhode island 
+7	0.625	obama president barack bush romney schools mitt obamas public john mccain students school george iraq times war college funding program 
+
+<50> LL/token: -8.59198
+<60> LL/token: -8.57046
+<70> LL/token: -8.54485
+<80> LL/token: -8.52969
+<90> LL/token: -8.51715
+
+0	0.625	money million oil government federal dollars office year state people day spent companies school make system put fund gas virginia 
+1	0.625	states united percent country city texas world people illegal rate county nation number highest immigrants america u.s military border crime 
+2	0.625	health care law insurance security people bill federal americans trump social donald obamacare republicans act passed plan dont government reform 
+3	0.625	percent jobs years million unemployment year time national created economy lost average private job weve rate today past increased ohio 
+4	0.625	u.s clinton voted senate republican hillary house bill campaign candidate vote sen congress court rep supported party millions democratic election 
+5	0.625	state budget billion spending debt scott medicare wisconsin gov cut education rick texas funding trillion year department walker florida program 
+6	0.625	tax percent taxes pay income year increase history state raise plan top people rhode families majority island raised average businesses 
+7	0.625	obama president barack bush john romney obamas mitt american school mccain george iraq public war schools students times called planned 
+
+<100> LL/token: -8.50852
+<110> LL/token: -8.50164
+<120> LL/token: -8.48696
+<130> LL/token: -8.47978
+<140> LL/token: -8.47244
+
+0	0.625	million money state oil school year dollars federal government system spent companies put make billion spend gas day virginia public 
+1	0.625	states united country people city world percent illegal texas county nation number rate highest immigrants women immigration u.s border crime 
+2	0.625	health care law insurance obamacare security bill trump social donald people americans plan act republicans dont federal reform support government 
+3	0.625	percent years jobs year million unemployment today job rate time created people lost economy average ohio weve office national america 
+4	0.625	u.s voted clinton bill senate republican hillary house campaign vote candidate congress sen court rep party supported democratic white election 
+5	0.625	state budget billion wisconsin spending debt scott medicare gov cut education public rick schools texas federal trillion government department funding 
+6	0.625	tax percent taxes pay income increase state raise plan american people top rhode year families majority governor cut working history 
+7	0.625	obama president barack bush administration john romney obamas mitt mccain war george iraq american times women day school called nuclear 
+
+<150> LL/token: -8.46688
+
+Total time: 1 seconds
+iter 1 import Fri 11/29/2019 14:14:28.63 with files in liar_data_files topics 10 num_iterations 150 FNb_mallet_1_ALL_10_file.mallet FNb_mallet_1_ALL_10_outputstate.gz FNb_mallet_1_ALL_10_keys.txt FNb_mallet_1_ALL_10_topics.txt 
+Labels = 
+   liar_data_files
+iter 1 train Fri 11/29/2019 14:14:31.63 with files in liar_data_files topics 10 num_iterations 150 FNb_mallet_1_ALL_10_file.mallet FNb_mallet_1_ALL_10_outputstate.gz FNb_mallet_1_ALL_10_keys.txt FNb_mallet_1_ALL_10_topics.txt
+Mallet LDA: 10 topics, 4 topic bits, 1111 topic mask
+Data loaded.
+max tokens: 41
+total tokens: 92135
+<10> LL/token: -9.19434
+<20> LL/token: -8.85367
+<30> LL/token: -8.73742
+<40> LL/token: -8.67443
+
+0	0.5	jobs million tax billion year money nation dollars spent state stimulus created cost lost federal city georgia cuts government economic 
+1	0.5	state scott gov republican illegal wisconsin law governor campaign senate immigrants walker candidate millions money washington u.s democrats pay make 
+2	0.5	obama president barack clinton hillary administration oil obamas court border supreme american planned secretary parenthood foreign history ban troops marriage 
+3	0.5	years budget state debt billion spending cut job romney time mitt national year private government paid trillion history deficit weve 
+4	0.5	health care taxes tax plan pay insurance voted obamacare americans raise medicare sen people bill million reform raised companies times 
+5	0.5	u.s voted bill government gun senate federal rep act house dont district veterans paul system proposed democratic background department doesnt 
+6	0.5	percent school rate public tax country states income texas education schools highest year college increase top students high higher funding 
+7	0.5	percent years county year office state average bush budget rhode george island today unemployment federal population immigration white jersey milwaukee 
+8	0.5	states united texas rick women law vote city world legislation congress election country passed members voting middle voters combined austin 
+9	0.5	people security trump social donald america u.s americans crime american today making nuclear percent countries military made day work working 
+
+<50> LL/token: -8.63332
+<60> LL/token: -8.61425
+<70> LL/token: -8.5842
+<80> LL/token: -8.57223
+<90> LL/token: -8.54873
+
+0	0.5	million jobs tax year billion money created dollars lost cost spent stimulus cuts federal office spend government taxpayers economic create 
+1	0.5	state republican scott gov wisconsin illegal bill senate house democrats campaign law candidate immigrants walker congress governor party money republicans 
+2	0.5	obama president barack clinton hillary administration oil obamas court border iraq john american mccain supreme planned foreign force war secretary 
+3	0.5	years budget state spending debt billion time job romney cut year mitt economy trillion history national weve day deficit half 
+4	0.5	health care taxes tax plan pay insurance obamacare medicare voted law americans raise cut reform bill government sen federal give 
+5	0.5	u.s voted federal gun rep act senate bill vote democratic government veterans paul virginia dont amendment background youre department allowed 
+6	0.5	percent school tax country public income rate education texas highest schools funding college higher top rates students high children number 
+7	0.5	percent years state county year average unemployment today rate bush nation rhode florida island office lowest family white population milwaukee 
+8	0.5	states united texas rick country people women legislation abortion vote world city voting days middle austin voters perry wall congress 
+9	0.5	people security trump social donald america military u.s work americans dont nuclear citizens china killed making day world support crime 
+
+<100> LL/token: -8.55078
+<110> LL/token: -8.52971
+<120> LL/token: -8.5264
+<130> LL/token: -8.52921
+<140> LL/token: -8.51486
+
+0	0.5	jobs million year money billion tax dollars cost created lost stimulus spent economic fund taxpayers energy private ohio spend office 
+1	0.5	state republican scott wisconsin gov illegal senate bill house democrats candidate campaign passed congress immigrants republicans walker party democratic governor 
+2	0.5	obama president barack clinton hillary administration oil bush john obamas mccain court times american border george iraq office war supreme 
+3	0.5	budget state years spending debt time cut billion job history romney year mitt economy trillion weve federal government governor deficit 
+4	0.5	health care taxes pay tax plan obamacare insurance voted medicare law people bill raise sen americans reform federal government families 
+5	0.5	u.s voted gun bill federal rep government make vote law department paul senate veterans home proposed allowed background found amendment 
+6	0.5	percent tax school public texas country education income funding highest schools state children rate college top rates students high number 
+7	0.5	percent years unemployment county rate nation state average florida year rhode today city island milwaukee population crime general family lowest 
+8	0.5	states united texas country women people rick abortion voting vote world middle austin voters majority city perry wall voter street 
+9	0.5	people security trump social donald u.s america military day work americans nations nuclear citizens time made working dont killed today 
+
+<150> LL/token: -8.51296
+
+Total time: 2 seconds
+iter 1 import Fri 11/29/2019 14:14:34.64 with files in liar_data_files topics 15 num_iterations 150 FNb_mallet_1_ALL_15_file.mallet FNb_mallet_1_ALL_15_outputstate.gz FNb_mallet_1_ALL_15_keys.txt FNb_mallet_1_ALL_15_topics.txt 
+Labels = 
+   liar_data_files
+iter 1 train Fri 11/29/2019 14:14:37.70 with files in liar_data_files topics 15 num_iterations 150 FNb_mallet_1_ALL_15_file.mallet FNb_mallet_1_ALL_15_outputstate.gz FNb_mallet_1_ALL_15_keys.txt FNb_mallet_1_ALL_15_topics.txt
+Mallet LDA: 15 topics, 4 topic bits, 1111 topic mask
+Data loaded.
+max tokens: 41
+total tokens: 92135
+<10> LL/token: -9.27095
+<20> LL/token: -8.92426
+<30> LL/token: -8.80892
+<40> LL/token: -8.74336
+
+0	0.33333	clinton hillary security social budget medicare cut plan bill house white dont federal national paul spending secretary defense marco taxes 
+1	0.33333	percent school texas college students rhode island high children state austin half family kids university families child marijuana average signed 
+2	0.33333	bill congress u.s court border war made members obama voted immigration supreme iraq president food running democrats laws republicans office 
+3	0.33333	percent unemployment campaign dollars billion rate million majority rick stimulus republican office perry big top republicans economic americans higher recent 
+4	0.33333	romney mitt private oil abortion gas women single companies planned governor america sector massachusetts parenthood reagan marriage death rights public 
+5	0.33333	tax voted billion state spending cuts increase county history time act city milwaukee largest times sen rep year proposed budget 
+6	0.33333	percent taxes tax pay years income rate country average highest raise rates year lowest businesses nation property small business today 
+7	0.33333	health care insurance law trump plan obamacare donald americans government reform bill employees coverage million veterans pay cost medicaid costs 
+8	0.33333	people gun work city mccain john wage federal minimum year police york guns force crime background program percent person cities 
+9	0.33333	states united illegal immigrants country day energy america world u.s nations iran countries foreign deal oil trade money companies agreement 
+10	0.33333	senate u.s republican candidate vote party support money democratic voters women washington senator wall medicare house obamacare florida street dollar 
+11	0.33333	people state number office money years government days weve congressional law voting general record county district time budget chris program 
+12	0.33333	jobs million wisconsin scott state job gov cut created lost walker ohio governor years growth year months texas budget create 
+13	0.33333	state year public federal texas schools funding billion years georgia education department school million passed government florida law costs day 
+14	0.33333	obama president barack debt bush years administration obamas trillion military george ago today nuclear national american times deficit economy put 
+
+<50> LL/token: -8.69177
+<60> LL/token: -8.64955
+<70> LL/token: -8.62565
+<80> LL/token: -8.6119
+<90> LL/token: -8.58578
+
+0	0.33333	clinton hillary security medicare social budget cut white american mccain bill dont house plan end paul federal debt youre marco 
+1	0.33333	percent texas school college city rhode students high island state children austin national university student kids water paid higher marijuana 
+2	0.33333	bill u.s congress house court republicans voted border made senate democrats members supreme iraq food immigration war passed taking control 
+3	0.33333	million unemployment dollars billion campaign office stimulus percent people rick americans spent budget rate millions perry economic economy deficit governor 
+4	0.33333	women romney mitt private abortion gas oil planned change governor sector companies parenthood reagan men make put citizens massachusetts marriage 
+5	0.33333	tax voted billion state increase county spending cuts u.s sen rep plan history times democrats middle milwaukee give budget class 
+6	0.33333	percent taxes tax years pay rate average income country highest today rates raise year top lowest property small businesses working 
+7	0.33333	health care insurance law obamacare trump donald plan government reform bill americans pay coverage costs cost million act employees medicaid 
+8	0.33333	people gun year percent crime work wage minimum city york police guns american federal background killed cities show free study 
+9	0.33333	states united illegal country world immigrants day countries single china nations america energy nuclear u.s oil iran foreign deal trade 
+10	0.33333	republican senate vote candidate u.s party support democratic election money washington senator supported voters wall majority democrat street dollar presidential 
+11	0.33333	money state office time number government people general district georgia record voting congressional year atlanta chris industry days weve report 
+12	0.33333	jobs state million wisconsin scott years gov job created lost walker ohio year cut growth past months create weve rick 
+13	0.33333	federal state public year education florida funding schools government billion law texas georgia legislation school local department million virginia years 
+14	0.33333	obama president barack bush administration debt obamas trillion george national years times military put history war policies economy time presidents 
+
+<100> LL/token: -8.57781
+<110> LL/token: -8.56712
+<120> LL/token: -8.56056
+<130> LL/token: -8.54525
+<140> LL/token: -8.5339
+
+0	0.33333	clinton hillary security social mccain medicare white plan john paul paid called support debt youre defense budget federal marco american 
+1	0.33333	percent texas school college rhode children students island city high austin university program water theyre half young schools marijuana kids 
+2	0.33333	bill congress u.s house democrats court republicans border voted passed members supreme food immigration iraq senate legislature wisconsin war joe 
+3	0.33333	million dollars billion people campaign spent money deficit millions stimulus budget rick perry thousands fund economic spend americans china economy 
+4	0.33333	women romney mitt abortion gas oil planned citizens massachusetts parenthood men control make governor doesnt marriage man cents abortions life 
+5	0.33333	tax voted billion increase cuts cut budget year spending taxes plan sen proposed middle state u.s history class times county 
+6	0.33333	percent rate taxes pay years average unemployment income tax country highest today rates higher raise top increased lowest nation year 
+7	0.33333	health care obamacare insurance law trump donald americans plan pay medicare government act people reform bill coverage costs employees affordable 
+8	0.33333	people gun percent crime wage work minimum city year police guns laws york killed background cities show sanders check welfare 
+9	0.33333	states united country illegal world immigrants day countries deal single energy u.s nations america nuclear oil iran foreign mexico power 
+10	0.33333	republican senate candidate u.s vote party democratic election voted support washington florida majority supported votes voters wall democrat voter senator 
+11	0.33333	state office county time money georgia government general congressional put number record home chris voting back atlanta board district christie 
+12	0.33333	jobs state million wisconsin scott years gov job created lost ohio year walker private weve growth governor rick past create 
+13	0.33333	state federal public year government education funding florida texas years schools law system cost department billion local school teachers financial 
+14	0.33333	obama president barack bush administration debt obamas years george time national trillion times american military war history policies put months 
+
+<150> LL/token: -8.53463
+
+Total time: 2 seconds
+iter 1 import Fri 11/29/2019 14:14:40.81 with files in liar_data_files topics 20 num_iterations 150 FNb_mallet_1_ALL_20_file.mallet FNb_mallet_1_ALL_20_outputstate.gz FNb_mallet_1_ALL_20_keys.txt FNb_mallet_1_ALL_20_topics.txt 
+Labels = 
+   liar_data_files
+iter 1 train Fri 11/29/2019 14:14:43.72 with files in liar_data_files topics 20 num_iterations 150 FNb_mallet_1_ALL_20_file.mallet FNb_mallet_1_ALL_20_outputstate.gz FNb_mallet_1_ALL_20_keys.txt FNb_mallet_1_ALL_20_topics.txt
+Mallet LDA: 20 topics, 5 topic bits, 11111 topic mask
+Data loaded.
+max tokens: 41
+total tokens: 92135
+<10> LL/token: -9.34012
+<20> LL/token: -8.98014
+<30> LL/token: -8.8377
+<40> LL/token: -8.75192
+
+0	0.25	campaign house republican state sen jersey day person veterans spent single joe democratic today million month voted companies fund votes 
+1	0.25	romney gun mitt year law made university massachusetts half america governor background back lowest killed system years iraq great check 
+2	0.25	health care insurance plan medicare reform million bill americans pay costs federal government act coverage benefits people billion medicaid affordable 
+3	0.25	bush voted oil george women time abortion make money administration washington dollar cents drilling big life paid crime rape violence 
+4	0.25	law court party general supreme dont police election wisconsin people presidential marriage republican support gay amendment u.s ive attorney defense 
+5	0.25	years debt percent time u.s trillion national voted budget economy office house ago million spending today day spend total congressional 
+6	0.25	tax percent taxes income average year families cut people property raise rate top rates middle class american family oregon sales 
+7	0.25	security social obamacare people pay businesses plan medicare small cuts business making wall david supports street vote mexico deal fund 
+8	0.25	people border women work planned children americans parenthood make government administration brown doesnt georgia hundreds allowed citizens receive rep lot 
+9	0.25	state billion budget gov scott wisconsin spending increase cut governor rick year history tax walker education cuts florida deficit perry 
+10	0.25	jobs million year state created lost job federal cost weve billion growth months private employees government obamacare pay sector taxpayers 
+11	0.25	states united country percent world nation rhode island iran food texas state number combined major nuclear america york city population 
+12	0.25	percent unemployment illegal rate texas immigrants college vote immigration years florida increased voters state majority democrats half republican tuition national 
+13	0.25	obama president barack obamas senate u.s times candidate office hes years program obama's taking experience military running syria immigration policies 
+14	0.25	school public state texas county city schools funding percent milwaukee number austin local board system district past pay years put 
+15	0.25	people gas u.s wage minimum senate america days working reagan senator today youre oil nations work ronald prices man states 
+16	0.25	bill federal money dollars congress passed voted put workers millions legislation american tax senate ted department members give companies taxpayer 
+17	0.25	obama john mccain change congress administration american crime iraq service war troops climate economic times power violent military including global 
+18	0.25	trump donald law federal paul laws rep government student voter marijuana report marco record rubio force students high u.s voting 
+19	0.25	clinton hillary country highest bill china countries world trade north supported foreign nation carolina economy graduation policy average national clintons 
+
+<50> LL/token: -8.70143
+<60> LL/token: -8.6745
+<70> LL/token: -8.63879
+<80> LL/token: -8.62207
+<90> LL/token: -8.60198
+
+0	0.25	house republican campaign voted state white day democrats democratic republicans veterans candidate sen single democrat month spent didnt failed joe 
+1	0.25	romney gun mitt virginia control university guns america massachusetts background year check citizens show common checks killed governor system great 
+2	0.25	health care insurance law obamacare federal plan government million reform americans bill medicaid people medicare costs coverage act billion companies 
+3	0.25	bush oil women george voted time abortion energy paid washington men dollar money man make cents drilling senator life rape 
+4	0.25	court law wisconsin general supreme police amendment dont support party marriage u.s gay election florida voting early attorney bipartisan rights 
+5	0.25	years percent debt national trillion budget time office spending u.s ago million economy today spend deficit times raised total doubled 
+6	0.25	tax taxes percent average pay income year raise families family property cut middle class lower sales top people raising paying 
+7	0.25	security social plan medicare businesses cuts supports small fund program wall voted business david obamacare street theyre vote people benefits 
+8	0.25	people texas border children women planned parenthood time brown americans government kill military abortion abortions sherrod ohio coming georgia days 
+9	0.25	state billion budget scott gov cut governor rick increase tax spending walker wisconsin education cuts history year florida proposed perry 
+10	0.25	jobs million year job created lost state weve billion cost private growth federal create wisconsin sector months office ohio taxpayers 
+11	0.25	states united country nation rate world highest rhode island crime number iran food nations rates countries america nuclear largest texas 
+12	0.25	percent unemployment illegal immigrants college texas rate vote immigration dont half support voters people republican increased florida americans recent election 
+13	0.25	obama president barack senate obamas u.s administration times office running hes candidate policies didnt military york history attack years called 
+14	0.25	school city public state county texas percent schools milwaukee district austin mayor local year system board funding residents years past 
+15	0.25	people work country gas u.s wage minimum today america american reagan make majority working number ronald youre prices record oil 
+16	0.25	bill dollars money congress passed voted millions senate stimulus legislation tax put back federal bills ted department companies taxpayer special 
+17	0.25	john mccain iraq war change troops american opposed congress economic credit climate members political violent called including afghanistan service started 
+18	0.25	trump donald federal u.s government paul high student students voter marijuana report marco rep rubio law voting ryan laws sex 
+19	0.25	clinton hillary china bill doesnt trade country made policy foreign north state world south supported agreement build department mexico carolina 
+
+<100> LL/token: -8.58817
+<110> LL/token: -8.57392
+<120> LL/token: -8.56418
+<130> LL/token: -8.55761
+<140> LL/token: -8.55691
+
+0	0.25	house republican senate voted bill campaign candidate democrats democratic party republicans sen white votes democrat time state rep single supported 
+1	0.25	romney gun mitt year guns u.s control dont background massachusetts killed florida america check great welfare common citizens laws washington 
+2	0.25	health care insurance law obamacare plan federal government costs people act bill reform coverage americans million medicaid pay affordable medicare 
+3	0.25	oil bush george women paid energy men abortion voted dollar gas make spent man cents washington drilling violence rape foreign 
+4	0.25	court u.s law general supreme police amendment support marriage voting gay wisconsin election early attorney justice criminal officers constitution federal 
+5	0.25	years percent debt trillion national spending budget time today ago economy million past office lowest average u.s spend doubled total 
+6	0.25	tax taxes percent pay income average year raise families family property middle cut times higher top federal raised class sales 
+7	0.25	security social plan medicare businesses fund small voted supports money business billion program wall benefits street republicans cut cuts vote 
+8	0.25	people women border planned time government parenthood military children americans force abortion brown abortions research texas single kill day service 
+9	0.25	state budget scott billion gov increase wisconsin rick cut tax governor education spending walker florida history cuts proposed perry year 
+10	0.25	jobs million year job created state lost billion cost growth wisconsin half private economic ohio create weve sector months taxpayers 
+11	0.25	states united country nation world rate highest rhode crime island number america iran food nations rates countries texas nuclear largest 
+12	0.25	percent illegal unemployment rate college immigrants texas vote immigration florida majority years people students support tuition georgia population americans voters 
+13	0.25	obama president barack administration obamas office history times u.s bush day running hes american senate policies immigration released syria muslim 
+14	0.25	public city school state texas county schools milwaukee system district austin mayor local funding employees year board atlanta percent residents 
+15	0.25	people work year wage country minimum reagan make number youre working hours ronald today gas prices home longer back terrorists 
+16	0.25	congress bill money dollars passed tax millions stimulus legislation voted members bills companies put ted federal thousands government taxpayer back 
+17	0.25	john mccain war iraq dont change american troops national climate opposed things called congress credit wanted afghanistan global political position 
+18	0.25	trump donald u.s federal paul government rep voter marijuana report record rubio students fraud study drug children marco ryan law 
+19	0.25	clinton hillary state china country department made doesnt people world trade north secretary agreement south policy veterans carolina free bill 
+
+<150> LL/token: -8.55123
+
+Total time: 2 seconds
+iter 1 import Fri 11/29/2019 14:14:46.97 with files in liar_data_files topics 30 num_iterations 150 FNb_mallet_1_ALL_30_file.mallet FNb_mallet_1_ALL_30_outputstate.gz FNb_mallet_1_ALL_30_keys.txt FNb_mallet_1_ALL_30_topics.txt 
+Labels = 
+   liar_data_files
+iter 1 train Fri 11/29/2019 14:14:49.96 with files in liar_data_files topics 30 num_iterations 150 FNb_mallet_1_ALL_30_file.mallet FNb_mallet_1_ALL_30_outputstate.gz FNb_mallet_1_ALL_30_keys.txt FNb_mallet_1_ALL_30_topics.txt
+Mallet LDA: 30 topics, 5 topic bits, 11111 topic mask
+Data loaded.
+max tokens: 41
+total tokens: 92135
+<10> LL/token: -9.39452
+<20> LL/token: -9.0593
+<30> LL/token: -8.9179
+<40> LL/token: -8.81541
+
+0	0.16667	state clinton education department texas hillary ohio business trade sanders create agreement back bernie general clintons didnt china changed program 
+1	0.16667	republican party democratic u.s congress marriage north south gay primary carolina military washington tom won voters candidates protect political unions 
+2	0.16667	medicare federal pay plan billion government cost obamacare congressional district deficit board taxpayers doesnt costs seniors raise attorney trillion general 
+3	0.16667	obama president barack obamas bush office reagan times george ronald american experience muslim running isis policies troops popular presidency palin 
+4	0.16667	law state police immigration georgia illegal stop york florida local arizona allowed water common officers car saved industry federal auto 
+5	0.16667	john romney mccain mitt voting u.s paul record voted senator campaign ryan rep early called opposed poll policy troops presidential 
+6	0.16667	percent rate unemployment country highest rhode crime island lowest high nation rates increased states black numbers youre state violent america 
+7	0.16667	cut voted taxes vote governor times sen raised budget legislature class billion rape u.s charlie republicans middle crist plan funding 
+8	0.16667	years administration obama congress iraq bush ago members past president passed veterans george mandate started individual union released community afghanistan 
+9	0.16667	bill act support house passed amendment affordable supported immigration senate budget part reform texas rights bipartisan gop balance control balanced 
+10	0.16667	people percent years wisconsin today government number young economy america american population fewer didnt home time jail free rules report 
+11	0.16667	history increase largest time majority bill florida voted tax votes marijuana lower democrats white raise voters house candidate gdp don't 
+12	0.16667	money million dollars campaign spent millions stimulus economic gave bill taxpayer thousands service dont received funds job cost oregon proposed 
+13	0.16667	percent dont people top government federal americans marco rubio show workers pay spending polls global regulations bottom line work wisconsin 
+14	0.16667	city country system change world david u.s austin texas national climate sex military nations proposed making council entire mayor providence 
+15	0.16667	states united jobs created world million country countries weve sector office year private wisconsin war months corporate leave mexico texas 
+16	0.16667	trump jobs donald lost job people america million wage minimum growth wages year person month china made private-sector wrote result 
+17	0.16667	year average percent years people higher national make family working income american today gas half spend violence rates prices americans 
+18	0.16667	people time women jersey state killed chris americans million children put poverty live work christie born history week abortions companies 
+19	0.16667	state college year students school university paid child dollar man georgia half years wisconsin workers tuition cents oregon system entire 
+20	0.16667	tax taxes percent income businesses companies families small stimulus million jobs special federal give voted raise times billion big breaks 
+21	0.16667	u.s senate democrats republicans republican voted house candidate rep wall democrat voter street vote congressman legislation ive election nancy committee 
+22	0.16667	public schools school funding federal year government employees virginia cost private money average kids month opponent tim increase worker children 
+23	0.16667	oil county florida energy texas nation major proposed city drilling cities level gas nations atlanta residents economy credit increase highest 
+24	0.16667	debt court border day trillion supreme food deal years people weve number national bring congress term justice iran case presidents 
+25	0.16667	health care insurance law immigrants obamacare bill illegal plan americans reform coverage people medicaid ted million government lose federal american 
+26	0.16667	security social gun county nuclear background guns joe check death checks milwaukee iran laws buy defense years program supports support 
+27	0.16667	clinton hillary women planned parenthood abortion cases shows research find middle refugees cancer birth control including war benghazi legal white 
+28	0.16667	scott gov rick state walker texas million governor perry left cut brown office walkers sen sherrod made pay deficit election 
+29	0.16667	tax billion budget state cuts spending year taxes years plan debt property increases dollars pay massachusetts fund office making mitt 
+
+<50> LL/token: -8.77343
+<60> LL/token: -8.74486
+<70> LL/token: -8.71078
+<80> LL/token: -8.69538
+<90> LL/token: -8.67473
+
+0	0.16667	clinton hillary state department trade china sanders ohio bernie business clintons didnt secretary shut fbi islamic union workers constitution call 
+1	0.16667	party republican democratic u.s election marriage north presidential gay elected south won voters primary congress carolina political tom votes oregon 
+2	0.16667	federal medicare billion government obamacare congressional taxpayers office cost medicaid law pay program seniors year district costs paid plan put 
+3	0.16667	obama president barack obamas office reagan times bush ronald administration american muslim running george syria troops experience presidency hes palin 
+4	0.16667	state illegal law police georgia florida immigration york arizona common officers car water washington allowed city report local aliens auto 
+5	0.16667	john romney mitt mccain voting paul sen record plan massachusetts opposed end rep ryan voted senator early medicare troops poll 
+6	0.16667	percent rate unemployment highest rhode crime rates island country lowest nation states world higher level numbers high state america texas 
+7	0.16667	taxes cut voted raise pay times bill property raised class budget middle republicans sen raising plan charlie crist tax governor 
+8	0.16667	years administration obama bush war iraq george congress veterans past ago started months time released doubled afghanistan members individual called 
+9	0.16667	bill act passed support legislation amendment congress house senate bills immigration affordable members law voted supported reform proposed bipartisan ban 
+10	0.16667	percent years people today number wisconsin government ago youre population decade young left million jersey past america fewer federal jail 
+11	0.16667	history florida time largest majority marijuana made great increase bill wisconsin election medical single population years georgia don't capital voters 
+12	0.16667	money million campaign dollars spent millions stimulus thousands taxpayer spend gave taking economic hundreds fund funds bill contributions bank run 
+13	0.16667	percent people dont country top government marco federal rubio american wisconsin financial americans pay employees show global support regulations bottom 
+14	0.16667	city military country change u.s world david force austin texas national system put climate entire sex year nations place air 
+15	0.16667	states united jobs created year weve country countries million job america world create texas years sector private wisconsin creation economy 
+16	0.16667	trump donald jobs lost million job wage minimum america growth people made economy workers person china hours hour make industry 
+17	0.16667	percent year average years income national family cost half americans today make spend american working month prices increased higher top 
+18	0.16667	people americans women time work killed home million children born doesnt poverty abortion live week doctors make put laws living 
+19	0.16667	texas state college students school university year high dollar half student cents georgia oregon child women tuition men kids paid 
+20	0.16667	tax percent companies businesses income small business jobs give corporate special taxes total billion breaks big supports voted overseas american 
+21	0.16667	u.s senate democrats republican voted candidate vote republicans house rep wall democrat voter street supported gop committee nancy fund votes 
+22	0.16667	public schools funding school education system virginia private benefits government teachers aid federal record tim making employees district free cuts 
+23	0.16667	oil county energy gas atlanta nation texas credit drilling city cities foreign florida power residents big nations water west land 
+24	0.16667	debt court day border trillion u.s supreme food national deal people weve justice general years half term back paid saudi 
+25	0.16667	health care insurance law obamacare bill plan immigrants illegal coverage reform million americans federal costs government lose people ted buy 
+26	0.16667	security social gun nuclear iran guns citizens county background death milwaukee check checks weapons buy program deal supports violence board 
+27	0.16667	white planned house women abortion parenthood control research cases refugees attack isis children birth benghazi attacks including shows study failed 
+28	0.16667	scott state gov governor rick walker texas cut perry brown christie signed company walkers governors chris education sherrod left ive 
+29	0.16667	tax budget billion state spending year cuts years deficit increase plan pay debt increases sales families dollars wisconsin revenue surplus 
+
+<100> LL/token: -8.66232
+<110> LL/token: -8.65278
+<120> LL/token: -8.63775
+<130> LL/token: -8.62667
+<140> LL/token: -8.61906
+
+0	0.16667	clinton hillary state department trade sanders didnt secretary bernie clintons union policy wrote fbi islamic american free virtually agreement call 
+1	0.16667	republican party democratic election vote marriage candidate north presidential south primary voters won day gay ohio carolina unions debate time 
+2	0.16667	billion federal medicare government cost year cut obamacare congressional costs budget taxpayers medicaid plan program seniors trillion office fraud paid 
+3	0.16667	obama president barack obamas office reagan administration times ronald bush experience obama's muslim running palin hes responsible presidency made basically 
+4	0.16667	state illegal law immigration police georgia york local arizona common officers car allowed residents officials stop report legal bridge aliens 
+5	0.16667	john romney mitt mccain voting paul u.s called voted record medicare ryan sen end plan massachusetts opposed early rep company 
+6	0.16667	percent rate unemployment highest nation country rhode island texas lowest rates crime higher states state world high level ranks graduation 
+7	0.16667	taxes tax pay cut raise voted times property plan middle governor class raised raising income sen charlie crist homes real 
+8	0.16667	bush war administration iraq george obama years veterans back troops congress started year days afghanistan members released things months jeb 
+9	0.16667	bill passed act legislation senate congress law amendment bills affordable house support proposed members ban immigration bipartisan rules reform legislature 
+10	0.16667	percent years people today number ago state population past government million office decade total time young spending increased jersey black 
+11	0.16667	history florida majority time largest marijuana georgia wisconsin single part vote great medical ted democrats made ballot election drug increase 
+12	0.16667	million money dollars campaign spent stimulus millions thousands spend economic run taxpayer bill gave hundreds funds washington saved raised contributions 
+13	0.16667	percent people dont support country government american top marco rubio federal employees wisconsin work oregon global financial americans idea recent 
+14	0.16667	city military change david country u.s world system climate austin force leave national air mayor making put council providence fight 
+15	0.16667	states united jobs created job countries america country world years million year sector economy ohio weve create months creation entire 
+16	0.16667	jobs trump donald lost workers wage minimum million china economy america economic california make person made industry hour u.s good 
+17	0.16667	percent year average family national half income years today working cost top america americans florida spend market prices worker gas 
+18	0.16667	people americans work women million make killed home youre year time american week born poverty live put back children kill 
+19	0.16667	texas college state school students university student dollar tuition women cents high oregon man child paid kids program wisconsin half 
+20	0.16667	tax percent businesses companies small business pay taxes income federal money give paying special families corporate breaks big american million 
+21	0.16667	u.s voted senate democrats republican house republicans congress rep candidate vote wall democrat street voter senator sen votes joe supported 
+22	0.16667	public school schools funding education system government private teachers fund virginia federal employees pension aid students receive districts tim children 
+23	0.16667	oil county energy gas water atlanta city cities credit drilling foreign power mayor land big major austin offshore coast florida 
+24	0.16667	debt court border day trillion national weve u.s supreme food general immigrants attorney times justice deal illegally years people illegal 
+25	0.16667	health care insurance law obamacare plan bill americans reform coverage million lose illegal mandate immigrants individual costs government premiums plans 
+26	0.16667	security social gun nuclear citizens iran background guns check county buy weapons checks death deal laws israel milwaukee crimes supports 
+27	0.16667	abortion planned women parenthood control white house children rape abortions including research attack attacks cases terrorist cancer refugees birth life 
+28	0.16667	scott gov state rick governor walker texas perry signed chris christie brown cut walkers left governors office sherrod education ohio 
+29	0.16667	budget tax billion spending state cuts years increase year debt deficit proposed increases revenue wisconsin sales plan surplus fiscal annual 
+
+<150> LL/token: -8.60856
+
+Total time: 2 seconds
+iter 1 import Fri 11/29/2019 14:14:53.42 with files in liar_data_files topics 40 num_iterations 150 FNb_mallet_1_ALL_40_file.mallet FNb_mallet_1_ALL_40_outputstate.gz FNb_mallet_1_ALL_40_keys.txt FNb_mallet_1_ALL_40_topics.txt 
+Labels = 
+   liar_data_files
+iter 1 train Fri 11/29/2019 14:14:56.44 with files in liar_data_files topics 40 num_iterations 150 FNb_mallet_1_ALL_40_file.mallet FNb_mallet_1_ALL_40_outputstate.gz FNb_mallet_1_ALL_40_keys.txt FNb_mallet_1_ALL_40_topics.txt
+Mallet LDA: 40 topics, 6 topic bits, 111111 topic mask
+Data loaded.
+max tokens: 41
+total tokens: 92135
+<10> LL/token: -9.48226
+<20> LL/token: -9.09319
+<30> LL/token: -8.95489
+<40> LL/token: -8.87767
+
+0	0.125	year americans average half china billion spend trade day hours america kill working single agreement entire national worth week wealth 
+1	0.125	taxes tax raise pay cut increase raised governor small middle businesses perry rick times class plan raising percent proposed budget 
+2	0.125	trump donald wall street made federal make banks asked trumps good hes attacks benghazi individuals parents libya funds wanted supported 
+3	0.125	years women republicans ago time democrats paid dollar men percent make house today costs cents man voted democrat person recent 
+4	0.125	nuclear iran guns background deal program check union checks weapons drug people force news air state bargaining collective bill paying 
+5	0.125	illegal immigrants people jersey washington weve immigration christie chris office brown california work welfare theyve sherrod presidential d.c left amnesty 
+6	0.125	county florida voters board state percent system milwaukee common death education department time transportation core residents received governor week election 
+7	0.125	national debt time spending put isis economy terrorist attack history tim capital islamic fight democrats group place americans gains kaine 
+8	0.125	federal government congress members doesnt global part regulations put obamacare workers citizenship light forced safety required serving benefit warming told 
+9	0.125	american troops iraq support sales made cost higher due show mexico polls afghanistan saudi agency patrick set protection put arabia 
+10	0.125	city texas austin police state system university york year oregon officials officers fire council law thousands water providence millions size 
+11	0.125	percent people number today dont years work employees theyre city mayor day total country single young water economy free atlanta 
+12	0.125	country nation state highest rate largest texas history lowest percent spending world florida food georgia population growth ranks nations capita 
+13	0.125	million year dollars paid taxpayers county cost north carolina research budget financial back taxpayer campaign bank force executive years roughly 
+14	0.125	war veterans money world political iraq department u.s military policy lives member defense helped half west joe result votes significant 
+15	0.125	percent rate unemployment increased citizens college high school higher average graduation texas hispanic students harry districts virginia months dropped work 
+16	0.125	states people year united countries dont day killed u.s combined population terms half military percentage biggest times points american mass 
+17	0.125	public school schools students funding college high private kids texas wisconsin student proposed teachers teacher district children rates basically fund 
+18	0.125	state job billion georgia local years economic ohio creation credit year great program john florida rating helped majority money development 
+19	0.125	billion federal oil debt trillion budget government deficit companies dollars office drilling gas reduce started foreign spend cuts increase money 
+20	0.125	court supreme law marriage cases justice amendment case ban wisconsin crimes act gay abortions rape abortion action constitutional found changed 
+21	0.125	voted bill medicare u.s sen stimulus passed senate funding democrats education seniors plan republican government senator cuts rep spending bills 
+22	0.125	u.s house senate bill white candidate control including birth things didnt representatives abortion rep women lot black unions run labor 
+23	0.125	jobs created million lost weve years sector private office months create year ohio stimulus industry millions economy added private-sector recovery 
+24	0.125	john mccain voted legislation rights bill opposed abortion immigration supported women illegal support issue senate companies coverage obamacare aliens sen 
+25	0.125	scott state gov wisconsin walker budget border rick cut education billion years walkers governor office congressional virginia balance control promise 
+26	0.125	make marijuana voting u.s medical back amendment report company candidate gop life early ive team led problem economy big shut 
+27	0.125	gun laws country david texas voter violence hundreds cities car major fraud domestic georgia passed driving murder deaths thousands mayor 
+28	0.125	clinton hillary romney mitt massachusetts secretary gave called governor refugees supported clintons told media america supporting syrian wrote department commerce 
+29	0.125	security social medicare republican planned general plan cut budget parenthood fund revenue candidate years u.s republicans congress congressional democrats receive 
+30	0.125	republican party vote change voted election people democratic climate sex rep elected congressman paul popular numbers mike palin allowed newt 
+31	0.125	years obama percent past spending president congress votes taking worked military mark administration american earmarks sen released bills median announced 
+32	0.125	campaign record crime spent marco rubio voting contributions violent texas didnt lobbyists company support ran found keystone pipeline hasnt jeff 
+33	0.125	tax percent income pay taxes families average top cuts family making lower year property plan benefits give corporate breaks millionaires 
+34	0.125	states united america wage minimum job poverty percent growth today time living texas world live number million wages people worst 
+35	0.125	care health law act insurance obamacare government affordable reform sanders bill bernie cost individual mandate johnson democratic pay florida vote 
+36	0.125	obama president barack bush administration obamas george reagan policies jeb presidency doubled syria muslim term ronald bushs terrorism words portman 
+37	0.125	money state business gas law people prices days dont deal arizona spent gallon crisis amount cars reserve gasoline doubled loan 
+38	0.125	health care insurance rhode island million plan costs people medicaid percent americans obamacare law program lose ryan paul reform current 
+39	0.125	country children power youre times ted energy born charlie home crist bring cruz stopped tuition paying community child babies solar 
+
+<50> LL/token: -8.81649
+<60> LL/token: -8.78237
+<70> LL/token: -8.73885
+<80> LL/token: -8.72054
+<90> LL/token: -8.70885
+
+0	0.125	year americans china spend billion day average trade america half hours working single close today week recent worth entire work 
+1	0.125	taxes tax increase pay raise cut percent businesses small plan middle billion class times raised business property proposed governor increases 
+2	0.125	trump donald wall street asked doesnt make hes ohio attacks banks things didnt trumps big made claims lot thinks great 
+3	0.125	years percent women time ago today paid dollar men person man cents recent work half make nancy child job pelosi 
+4	0.125	iran people nuclear background guns deal gun check ban weapons supported checks force air drug news bargaining allowed collective carry 
+5	0.125	illegal immigrants people immigration washington chris governor christie year brown history sherrod undocumented aliens tuition amnesty race california jersey left 
+6	0.125	county board district percent voters common elections milwaukee time vote residents election florida congressional votes system ballot counties registered core 
+7	0.125	national put isis time terrorists place economy tim group capital islamic gains entire fight buy attack including bring size list 
+8	0.125	federal government workers doesnt regulations employees back global citizenship congress fact time put warming open part oregon light constitution bad 
+9	0.125	american majority iraq troops americans country support made show mexico sold wanted saudi two-thirds forces protection arabia sell flag domestic 
+10	0.125	city austin police york system state texas mayor times year officers milwaukee law providence line council university fire oregon thousands 
+11	0.125	people percent dont number employees work years public water country state theyre economy home total today single bridge free atlanta 
+12	0.125	country nation highest state largest world lowest history rate texas food spending florida top georgia rates tax virginia level population 
+13	0.125	million dollars year taxpayers spent millions build cost costs money research carolina billion taxpayer paid funds bank saved virginia north 
+14	0.125	war veterans department u.s political military iraq policy world money joe save defense member irs civil groups savings lives called 
+15	0.125	percent rate unemployment increased higher average national college high black population african-american reduced hispanic graduation weve education texas cost study 
+16	0.125	states people countries day united year american killed u.s dont americans times military compared muslims mass died biggest land africa 
+17	0.125	school public schools education funding students texas student college kids teachers children high program system university proposed private parents wisconsin 
+18	0.125	state job texas georgia union local credit creation terms business rating department helped florida employee wisconsins great agencies billion report 
+19	0.125	debt budget billion oil spending trillion deficit federal office drilling government national gas cuts money dollars surplus congressional reduce cost 
+20	0.125	court law supreme marriage amendment bill general justice gay abortion cases position immigration attorney case act legal executive abortions wisconsin 
+21	0.125	voted bill passed u.s stimulus democrats medicare sen senate obamacare rep vote bills end legislation republicans tom republican cuts plan 
+22	0.125	u.s house senate bill candidate white rep labor speaker supported democratic unions representatives leader history women majority opponent farm held 
+23	0.125	jobs million created lost years year weve job create private sector economy months growth america economic office ohio recovery industry 
+24	0.125	john mccain voted bill republicans democrats support control sen opposed legislation senate abortion pass candidate major women republican senator rights 
+25	0.125	scott state gov wisconsin rick walker border budget cut perry billion governor education walkers balance funding recall broke signed promise 
+26	0.125	marijuana florida welfare make voting ive early wisconsin medical forced supported proposed days life made allowing company led back drugs 
+27	0.125	crime gun laws david year violence voter violent hundreds fraud car death georgia cities deaths driving texas crimes convicted child 
+28	0.125	clinton hillary romney mitt state massachusetts secretary sanders gave bernie made clintons refugees department governor romneys america media told syrian 
+29	0.125	security social medicare cut plan planned paul parenthood ryan budget revenue benefits years general congress fund supports proposal funding retirement 
+30	0.125	republican party vote democratic change election voted climate democrat primary debate poll presidential won candidates republicans voters votes jim popular 
+31	0.125	years congress obama past administration members florida days military released previous taking president percent town changed theyre refused fact spending 
+32	0.125	campaign record marco rubio voting support million contributions company millions money washington lobbyists found special lobbyist pipeline big keystone worst 
+33	0.125	tax income percent taxes families pay average cuts making family year top american people worker working breaks sales corporations plan 
+34	0.125	states united wage minimum people america poverty world texas workers number combined living nations live percent today office million wages 
+35	0.125	care health law obamacare federal government insurance act reform affordable pay bill mandate individual required doctors coverage buy premiums signed 
+36	0.125	obama president barack bush obamas administration george office reagan ronald jeb syria obama's months presidency muslim bushs running doubled promised 
+37	0.125	money gas spent prices companies arizona state raised gallon market crisis oil stop homes amount industry cars received reserve doubled 
+38	0.125	health care insurance rhode million island obamacare medicaid plan percent americans people cost law costs lose companies coverage program services 
+39	0.125	country children energy ted youre power citizens born charlie crist illegally cruz texas plant babies paying means solar miles stopped 
+
+<100> LL/token: -8.68396
+<110> LL/token: -8.6793
+<120> LL/token: -8.66516
+<130> LL/token: -8.65129
+<140> LL/token: -8.64109
+
+0	0.125	year day china trade average americans billion hours today working spend single half south work weve week hour family part 
+1	0.125	taxes tax increase cut pay raise small raised property businesses middle plan percent class billion raising business times increases proposed 
+2	0.125	trump donald wall street change didnt made climate things good doesnt asked banks hes republicans trumps told mexico make build 
+3	0.125	years women percent time ago today men dollar man cents paid person child half work make nancy average weeks pelosi 
+4	0.125	deal guns iran gun nuclear background check weapons ban checks program supported news international bargaining carry collective firearms building assault 
+5	0.125	illegal immigrants border immigration chris people country governor christie brown jersey give citizens million sherrod undocumented aliens coming amnesty arizona 
+6	0.125	county percent district board milwaukee residents common elections voters counties death core time florida executive received votes office atlanta congressional 
+7	0.125	national put group terrorists isis tim place islamic terrorist risk terrorism bring including list home kaine oregon attack fight worked 
+8	0.125	government federal workers back doesnt employees put regulations send shut global safety open warming paid bad form change full fully 
+9	0.125	american made troops majority iraq u.s support financial show americans afghanistan saudi agency wanted forces protection arabia patrick flag couple 
+10	0.125	city austin police mayor york cities system crime officers fire america law council providence times line force milwaukee central entire 
+11	0.125	people percent dont state employees million public water work number country theyre today total economy years young bridge atlanta study 
+12	0.125	nation country highest history world largest state lowest rate texas food florida increase tax rates number spending biggest capita growth 
+13	0.125	million dollars year billion money spent taxpayers cost fund millions economic spend paid costs carolina funds taxpayer save thousands spends 
+14	0.125	war veterans department u.s policy iraq foreign called world military defense service joe helped responsible civil groups political close savings 
+15	0.125	percent rate unemployment increased higher high national black texas average population system hispanic african-american college rates reduced point dropped months 
+16	0.125	people countries year states killed americans day times u.s combined united america population percentage dont half muslims american larger terms 
+17	0.125	school public schools students education college texas funding student teachers kids system university children program high free private parents districts 
+18	0.125	state florida texas union job georgia credit ohio local great led rating lawmakers business terms creation found wisconsins isnt agencies 
+19	0.125	budget debt billion spending trillion deficit oil office national federal cut drilling year congressional half surplus interest government presidents doubled 
+20	0.125	law court supreme abortion general marriage amendment gay immigration attorney justice act case rape cases including legal rights experience signed 
+21	0.125	voted bill passed sen u.s senate stimulus democrats obamacare times congress vote legislation bills rep tom republican bipartisan leadership johnson 
+22	0.125	u.s house senate bill white candidate supported rep unions speaker leader political representatives opponent labor democratic agenda stand didnt tammy 
+23	0.125	jobs created lost million job weve years create year sector private growth months ohio economic office industry economy america stimulus 
+24	0.125	john mccain voted bill opposed control women support legislation abortion senator pass birth sen he's republican candidate issue republicans measure 
+25	0.125	scott state gov wisconsin rick walker governor budget education perry cut funding walkers cuts proposal recall left broke signed perrys 
+26	0.125	make marijuana voting medical people florida drug early welfare wisconsin recent drugs supported proposed amendment life colorado days back prescription 
+27	0.125	gun david crime laws voter violence year violent car texas hundreds crimes domestic sex citizens fraud convicted driving murder sexual 
+28	0.125	clinton hillary romney mitt massachusetts secretary sanders bill bernie gave clintons called refugees state department governor romneys fbi told director 
+29	0.125	security medicare social planned benefits paul plan parenthood pay cut budget seniors ryan supports years raise funding rob congress receive 
+30	0.125	republican party vote election democratic democrats support presidential republicans primary voters votes debate poll candidate gop numbers won democrat candidates 
+31	0.125	years congress obama past time administration members president military days spending order decade history program previous bills theyve changed couldnt 
+32	0.125	campaign record washington marco rubio money company voting big special contributions millions recently career lobbyists spent ethics found super keystone 
+33	0.125	tax income percent pay families cuts average year plan taxes top family sales making people american breaks real companies worker 
+34	0.125	states united wage minimum america people percent nations country number poverty time workers living texas today worst live two-thirds world 
+35	0.125	health care law insurance act reform federal obamacare bill government affordable plan pay costs premiums individual doctors mandate buy medicare 
+36	0.125	obama president barack bush obamas administration george office reagan ronald obama's jeb months policies presidency sign term syria bushs muslim 
+37	0.125	money gas state oil companies prices home market failed gallon homes cars crisis takes doubled stop energy reserve higher business 
+38	0.125	health insurance care rhode million americans island medicaid obamacare percent coverage plan lose month law program services cost children due 
+39	0.125	country youre power texas ted children energy born charlie crist cruz people force plant means paying babies solar built poor 
+
+<150> LL/token: -8.63668
+
+Total time: 2 seconds
+iter 1 import Fri 11/29/2019 14:15:00.02 with files in liar_data_files topics 50 num_iterations 150 FNb_mallet_1_ALL_50_file.mallet FNb_mallet_1_ALL_50_outputstate.gz FNb_mallet_1_ALL_50_keys.txt FNb_mallet_1_ALL_50_topics.txt 
+Labels = 
+   liar_data_files
+iter 1 train Fri 11/29/2019 14:15:03.12 with files in liar_data_files topics 50 num_iterations 150 FNb_mallet_1_ALL_50_file.mallet FNb_mallet_1_ALL_50_outputstate.gz FNb_mallet_1_ALL_50_keys.txt FNb_mallet_1_ALL_50_topics.txt
+Mallet LDA: 50 topics, 6 topic bits, 111111 topic mask
+Data loaded.
+max tokens: 41
+total tokens: 92135
+<10> LL/token: -9.54432
+<20> LL/token: -9.14726
+<30> LL/token: -8.98599
+<40> LL/token: -8.9048
+
+0	0.1	weve david day time gas general prices back fund office half china revenue gallon lot american means history moving gasoline 
+1	0.1	bill voted billion stimulus cost program year millions single funds day workers tom trade paid dollars democrats agreement ban earmarks 
+2	0.1	percent small business businesses population growth texas increased job numbers today vote community workforce home floridians atlanta number amount places 
+3	0.1	jobs created million job wisconsin state create texas year creation ohio governor economy raised lost private-sector ive losing creating manufacturing 
+4	0.1	budget state billion spending cut deficit education cuts year years funding governor wisconsin defense half balance proposal balanced programs budgets 
+5	0.1	major won texas money poll popular longer spending jeff found ebola calls online constitution vote return needed jersey fought census 
+6	0.1	john mccain deal iran nuclear opposed senator secretary program support position policy rob limit russia didn't give changed supporting sanctions 
+7	0.1	oil companies energy planned parenthood gas drilling percent power voted tax big offshore coast solar breaks record building coal give 
+8	0.1	county milwaukee women abortion city number abortions cases poverty office cancer atlanta access executive counties residents living revenue service lives 
+9	0.1	illegal obama immigration immigrants president administration arizona legal barack give aliens amnesty authority syria republicans palin sarah laws months executive 
+10	0.1	school public schools students college high texas education student funding children kids system graduation marriage districts loan universities same-sex portland 
+11	0.1	million dollars money spent city paul austin taxpayers stimulus campaign thousands costs ryan saved system save council hundreds rep gave 
+12	0.1	tax romney mitt taxes plan pay income food massachusetts cut raise families governor people millions millionaires romneys stamps theyre americans 
+13	0.1	florida state gun voter citizens georgia laws checks year free u.s university criminal background military code mass costs sexual system 
+14	0.1	time supported great didnt term governors decades media presidents previous agency combined simply theyve alex michael show threat sink man 
+15	0.1	health care insurance law obamacare coverage reform plan people mandate individual cost federal plans program buy current require hospitals medicaid 
+16	0.1	department water dont proposed youre back didnt bills call rules problem veterans newt times gingrich constitution asked charge fight waste 
+17	0.1	taxes tax state rhode pay highest island property raise country nation raising year rate times rates home raised receive doctors 
+18	0.1	court passed supreme campaign presidential congress election house support republicans years u.s senate republican charlie bill justice bipartisan crist party 
+19	0.1	wisconsin state making makes board force service overseas york millions group obama attack groups corporate flag capitol plant gave christian 
+20	0.1	obama president barack obamas office administration obama's doubled running domestic hes bush promised made added bring gross experience action economy 
+21	0.1	trump donald u.s congress members johnson ron supported benghazi foreign trumps israel libya body question serving attacks guy shows reps 
+22	0.1	people country work america wisconsin year common days university put home rights terrorists core back jersey standards today million drugs 
+23	0.1	years ago today city half crime total lowest wage minimum time cities working country level past mayor weve economy full 
+24	0.1	national wall debt economy street average york brown california big sen billion sherrod entire banks cost taxes received trillion times 
+25	0.1	u.s voted rep sanders time votes bernie vote times nancy place percent pelosi person guns allowed west put trade committed 
+26	0.1	years debt trillion past month national reagan ronald decade recent weve air growth increase significant rates percentage market ceiling crime 
+27	0.1	house white bill military percent islamic news driving democrats cost shot report higher rail fox reduced alcohol significantly broke homes 
+28	0.1	clinton hillary country clintons world prison gay bill major secretary nation foundation spend shut people called line human lead helped 
+29	0.1	scott gov state walker pay employees rick public unions law walkers virginia tim made union equal bargaining collective doesnt promise 
+30	0.1	percent average year income top police family america workers check officers system low background virginia make car years roughly wages 
+31	0.1	security social medicare obamacare plan benefits cut supports age seniors fund bank retirement turn programs cuts raise privatize ken voucher 
+32	0.1	bush george iraq obama president troops american administration sen wanted afghanistan time voted cuts opponent jeb democrats jim u.s isis 
+33	0.1	history tax largest increase american u.s state world florida government business single biggest family it's extra texas tommy list thinks 
+34	0.1	jobs million lost year tax economic percent sales cost months worst georgia increase labor georgias research america supports november team 
+35	0.1	senate republican candidate u.s democrat house voted run joe amendment supported democratic times general majority gop congressman harry running stand 
+36	0.1	people dont money americans spend day killed million work majority guns bill young make raised pipeline super keystone muslim led 
+37	0.1	federal government support state ted tuition make polls cruz illegal texas immigrants majority american americans citizenship show child provide favor 
+38	0.1	percent rate unemployment higher change years lowest black climate national increased african-american lower poverty double grew caused point grown hasnt 
+39	0.1	rick women paid state federal perry dollar men year cents ohio job governor spent man gov fraud rating fiscal earn 
+40	0.1	states united world countries country america nations minimum wage war global combined death legally south warming africa population workers entire 
+41	0.1	government federal care private act health medicare affordable sector plan bill law billion office pay public congressional employees benefits budget 
+42	0.1	texas democrats district republicans teachers congressional financial including fire points special idea allowed schools legislature governor industry perrys live parents 
+43	0.1	voting middle class record year families florida plan early middle-class elections open east increase development cuts department additional shows end 
+44	0.1	tax proposed office billion congress spending voted increases veterans left act sex level turned helped basically wealthy reduce ive farm 
+45	0.1	people million americans war obamacare american children bill passed iraq don't working current find called died leave lose african half 
+46	0.1	vote party republican voters voted democratic election florida north sen stop carolina primary mark ohio debate elected south i'm convicted 
+47	0.1	law state washington bill senate refugees pass illinois d.c fbi made commission bills local reform company politicians told immigration enforcement 
+48	0.1	chris marco rubio control christie rape marijuana women children birth abortion amendment medical expansion medicaid saudi victims legislation floridas arabia 
+49	0.1	border people number gun nation country texas rates put buy mexico ranks international highest wisconsin violence control feingold russ government 
+
+<50> LL/token: -8.84526
+<60> LL/token: -8.81055
+<70> LL/token: -8.78428
+<80> LL/token: -8.76792
+<90> LL/token: -8.74979
+
+0	0.1	day david weve time gas prices office today child deal half gallon good means history ive share price gasoline taking 
+1	0.1	bill voted stimulus billion cost passed trade single legislation china program workers tom earmarks supported millions georgia agreement patrick democrats 
+2	0.1	percent businesses small business texas today black population oregon increased vote staff young african-american reduced compared recently numbers babies dont 
+3	0.1	jobs job created million lost private year sector create growth creation wisconsin months state ohio america month private-sector manufacturing creating 
+4	0.1	budget billion state spending cut years deficit year cuts education half surplus increases balance defense balanced funding proposal reduce budgets 
+5	0.1	vote democrats poll major popular shows texas credit won calls census team ebola led training football jeff reports kind spending 
+6	0.1	john mccain iran nuclear deal program senator policy changed he's opposed rob doesn't running talking weapons russia limit agreement didn't 
+7	0.1	oil companies energy planned parenthood power gas drilling voted big offshore solar coast coal natural overseas alaska gulf american wind 
+8	0.1	county milwaukee city atlanta mayor executive major number salaries counties cancer residents area center line received metro service board office 
+9	0.1	illegal immigration immigrants obama legal country administration give arizona aliens amnesty stop times undocumented palin law authority sarah fired president 
+10	0.1	school public schools students education college texas funding high student percent university teachers kids system receive georgia program children private 
+11	0.1	million dollars money spent billion paul taxpayers thousands campaign stimulus city ryan taxpayer hundreds costs paid fund council austin year 
+12	0.1	tax romney mitt plan food pay families millions governor massachusetts cut millionaires corporations taxes people middle-class paid romneys stamps making 
+13	0.1	florida gun background voter guns laws checks georgia check state fraud citizens military mass murder carry shootings weapons assault nra 
+14	0.1	time great air supported didnt governors show crime presidents theyve combined agency man simply term previous isnt force woman alex 
+15	0.1	health care insurance obamacare law coverage reform plan costs plans buy individual lose mandate premiums pay program companies cost private 
+16	0.1	department water put violence paying back rules proposed theyre lot call problem domestic virginia didnt newt gingrich veterans wisconsin youre 
+17	0.1	taxes tax pay highest raise rhode island state property raised times income rate rates country raising higher cut nation families 
+18	0.1	court supreme law passed campaign u.s years bills senate charlie presidential justice crist bipartisan contributions wisconsin legislation election committee greg 
+19	0.1	state making makes force terrorist islamic department service attack lead board capitol flag plant worker wrong built parents missouri group 
+20	0.1	obama president barack obamas office policies economy obama's muslim administration history hes experience term bring promised address presidency doubled elected 
+21	0.1	trump donald congress members u.s made johnson china benghazi trumps ron asked foreign make serving question speech clear healthcare reps 
+22	0.1	people work country home common back jersey put doesnt fact standards core university hour welfare crimes terrorists happen america muslims 
+23	0.1	years ago wage today minimum crime america city total time cities half lowest country violent providence workers fewer weeks federal 
+24	0.1	economy wall york street city national big brown ohio sherrod california military entire banks fund largest san funds sen americas 
+25	0.1	u.s voted rep times time congress percent votes sanders bernie nancy person vote place republicans called pelosi mark west allen 
+26	0.1	debt years trillion national past reagan ronald average interest spending added decade weve result ceiling deficit estimates increase amount add 
+27	0.1	house white bill military news representatives dont driving rail members report sell homes attacks deaths youre fox free end media 
+28	0.1	clinton hillary bill state general secretary attorney clintons country department shut constitution foundation terms human position positions called helped female 
+29	0.1	state scott gov wisconsin walker employees rick public pay union governor walkers tim cut law wisconsins bargaining system collective virginia 
+30	0.1	percent year average income top family police workers officers make low bottom system wealth america car pays medicaid typical median 
+31	0.1	security medicare social plan supports cut obamacare benefits seniors cuts fund retirement age bank u.s turn raise veterans market privatize 
+32	0.1	bush obama president administration george iraq troops american afghanistan made sen jim jeb u.s mary funding months cuts bushs year 
+33	0.1	history increase largest tax government american u.s obamacare biggest world including capital costs programs business building single gains thompson top 
+34	0.1	million economic year percent cost tax georgia real increase sales worst labor estimated georgias drug sold people train estate impact 
+35	0.1	senate u.s republican candidate house democrat voted joe supported amendment governor congressman run speaker gop running harry democratic constitutional reid 
+36	0.1	dont money people spend americans killed majority day make percent kill pipeline super keystone watch guns work send children welfare 
+37	0.1	support majority percent ted marriage tuition make gay texas americans college born cruz recent citizenship life texans children data polls 
+38	0.1	percent rate unemployment years higher increased lowest change average national level climate rates population growth lower number dropped high decade 
+39	0.1	women texas rick perry paid men state dollar year federal cents ohio rating man earn forced average land work oregon 
+40	0.1	states united world country countries america nations war combined global number entire death warming worst half population south terms korea 
+41	0.1	federal government care act health law billion office affordable budget pay cost congressional bill medicare local employees irs funds board 
+42	0.1	district democrats republicans financial congressional industry didnt texas live recent legislature session points prevent including state regulations things consumer approved 
+43	0.1	voting record middle class year tax plan early cuts end hours give families east long research additional florida working rights 
+44	0.1	tax proposed voted left congress sex helped medicaid increase veterans office it's liberal massive billion large january days part relief 
+45	0.1	people million americans american war year children working half iraq die close young civil start leave african don't idea obamacare 
+46	0.1	republican party democratic vote sen election republicans voted voters democrats carolina north debate candidates primary registered south votes won florida 
+47	0.1	bill state washington law campaign refugees d.c report lobbyists fbi wrote enforcement illinois syrian company investigation safety ethics legislation senate 
+48	0.1	abortion women chris marco rubio control rape christie ban marijuana amendment medical cases abortions victims saudi birth including arabia allowing 
+49	0.1	border people nation country texas number gun citizens mexico coming international control person feingold russ buy illegally government highest ranks 
+
+<100> LL/token: -8.72808
+<110> LL/token: -8.7187
+<120> LL/token: -8.69753
+<130> LL/token: -8.69438
+<140> LL/token: -8.68149
+
+0	0.1	weve day david time gas prices deal good gallon history policies gasoline cars fund lives price reason taking rise cicilline 
+1	0.1	bill stimulus passed voted million trade legislation supported single billion china day tom cost republicans free patrick democrats ban agreement 
+2	0.1	percent small businesses business texas increased population black oregon today african-american kids dont death reduced prison compared workforce young uninsured 
+3	0.1	jobs created job lost million growth wisconsin state sector months private create year economy america creation ohio jersey recovery creating 
+4	0.1	budget billion spending state cut years deficit cuts year proposed education half office trillion surplus funding money proposal balance governor 
+5	0.1	credit poll ohio shows democrats found rating popular vote jersey team called calls major allowed texas ebola kind spending won 
+6	0.1	john mccain iran nuclear policy deal opposed obama position rob he's foreign program defense china senator government doesn't weapons changed 
+7	0.1	oil energy companies planned parenthood gas power drilling big tax overseas foreign offshore plant coast jobs voted solar wind natural 
+8	0.1	county city austin milwaukee atlanta mayor council board major counties executive district residents area projects cities left center broward metro 
+9	0.1	illegal immigration immigrants law administration arizona legislation country aliens amnesty undocumented called reform palin sarah criminal york executive legal obama 
+10	0.1	school public schools students education funding college texas student percent high teachers university kids program system children aid georgia private 
+11	0.1	million dollars money spent millions taxpayers campaign taxpayer billion thousands paid hundreds gave fund costs bank funded paul saved stimulus 
+12	0.1	tax romney mitt plan cuts food families people governor massachusetts taxes making romneys millionaires middle-class stamps corporations pay wealthy savings 
+13	0.1	gun florida voter guns background state check checks georgia laws ban citizens carry mass firearms fraud shootings weapons assault vote 
+14	0.1	time great started combined governors air term bills presidents agency days force part bridge theyve supported alex previous sink isnt 
+15	0.1	health care insurance law obamacare reform plan coverage costs bill companies mandate individual premiums doctors americans buy medicaid public private 
+16	0.1	water dont proposed department put rules veterans lot things problem didnt wisconsin newt regulations gingrich due call jail bad youre 
+17	0.1	taxes tax pay raise rhode island property raised income times cut raising highest state rates nation families paying higher corporate 
+18	0.1	court supreme u.s campaign law charlie justice passed crist bills wisconsin general senate contributions years election presidential support case decision 
+19	0.1	state military service group terrorist terrorists force islamic responsible isis attack flag fire christian capitol wanted makes department york christmas 
+20	0.1	obama president barack obamas office obama's hes administration running history muslim promised times experience elected action syria announced presidency began 
+21	0.1	trump donald congress made members u.s johnson ron make trumps asked serving clear benghazi libya attacks question israel china subject 
+22	0.1	people florida country work put home common theyre welfare system young back place standards fact jersey core week america drugs 
+23	0.1	years ago crime wage minimum today country time america city workers office percent cities half violent providence fewer hour total 
+24	0.1	economy wall street brown entire york national sherrod big fund banks sen california americas u.s san side ohio dallas guard 
+25	0.1	u.s voted rep congress time sen times sanders votes bernie republicans mark nancy congressman senator pelosi vote life percent allen 
+26	0.1	years debt trillion national past reagan ronald spending interest doubled average decade added money amount number increased revenue deficit ceiling 
+27	0.1	house white bill news representatives home light homes driving rail free media sell account military deaths members youre fox alcohol 
+28	0.1	clinton hillary general bill secretary state clintons department constitution country attorney foundation staff doesnt helped human shut nafta officials life 
+29	0.1	state scott wisconsin gov walker employees rick pay public union governor walkers tim cut virginia didnt bargaining equal collective wisconsins 
+30	0.1	percent average year income top police family workers officers low making worker bottom spend person wealth today wages america median 
+31	0.1	security medicare social plan pay seniors benefits obamacare cut supports paul ryan program programs age raise turn retirement cuts veterans 
+32	0.1	bush obama president george administration iraq troops war american made afghanistan time jeb years left mary sen wanted fighting held 
+33	0.1	history largest tax american increase world government u.s business biggest single capital costs family worked weve building death program system 
+34	0.1	year percent cost economic increase billion sales georgia tax million real worst numbers georgias result development month research sold u.s 
+35	0.1	senate candidate republican u.s voted house governor democrat joe supported gop ive speaker run running democrats harry issue democratic constitutional 
+36	0.1	people dont killed money year americans majority campaign kill list died super pipeline close thousands keystone donors work chinese worse 
+37	0.1	support children percent tuition marriage majority ted gay born americans child cruz show college doesnt residents citizenship recent act polls 
+38	0.1	rate percent unemployment higher lowest highest national rates level states change high climate average lower gdp poverty times increased nation 
+39	0.1	women state rick texas perry federal men paid dollar year medicaid cents man job gov oregon earn money woman reserve 
+40	0.1	states united world country countries america nations population global combined south worst warming top rest korea ranks entire number advanced 
+41	0.1	government federal act care obamacare affordable law local cost congressional budget employees billion health board irs funds office medicare prescription 
+42	0.1	democrats district financial state legislature texas republicans congressional industry legislative special stand crisis live districts car didnt session points recent 
+43	0.1	voting year record middle class make early plan give hours east rights career live poor families additional long working youre 
+44	0.1	tax voted increase billion sex helped proposed congress child massive it's plans medicaid bring groups part political floridians create veterans 
+45	0.1	people million americans year american half day working war today poverty children spend work die don't find lose living average 
+46	0.1	republican party vote democratic election voters senate republicans primary carolina sen votes presidential candidates candidate voted registered won debate florida 
+47	0.1	bill state law washington report company senate refugees illinois fbi allowed found campaign d.c ethics director safety commission special syrian 
+48	0.1	abortion women chris amendment marco rubio marijuana christie rape abortions control including birth victims saudi employers opposes funding arabia cases 
+49	0.1	texas border number country people control nation citizens coming gun feingold russ mexico international buy growing violence ranks put airport 
+
+<150> LL/token: -8.68845
+
+Total time: 2 seconds
