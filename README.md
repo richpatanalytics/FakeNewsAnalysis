@@ -24,6 +24,7 @@ Contributors: Richard Dzidzornu, Richard Paterson, Michael Znidarsic
 - [x] Project Overview (delivered and agreed 11/6)
 - [x] Create File Based Corpus from file with labeled observations
 - [x] Mallet Topic Modeling with multiple topic sets using File Based Corpus
+- [x] Mallet Charting
 ## Execution Instructions
 - [Step 1: Create File Based Corpus](https://github.com/richpatanalytics/FakeNewsAnalysis/blob/master/FakeNewsExecutionInstructions.pptx)
 - [Step 2: Mallet Topic Modeling](https://github.com/richpatanalytics/FakeNewsAnalysis/blob/master/FakeNewsExecutionInstructions.pptx)
