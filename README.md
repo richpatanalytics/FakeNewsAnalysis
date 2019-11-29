@@ -24,4 +24,4 @@ Contributors: Richard Dzidzornu, Richard Paterson, Michael Znidarsic
 - [x] Project Overview (delivered and agreed 11/6)
 - [x] Create File Based Corpus from file with labeled observations
 ## Execution Instructions
-- [Step 1: Create File Based Corpus](FakeNewsExecutionInstructions.pptx)
+- [Step 1: Create File Based Corpus](https://github.com/richpatanalytics/FakeNewsAnalysis/blob/master/FakeNewsExecutionInstructions.pptx)
