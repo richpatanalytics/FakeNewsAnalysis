@@ -8,23 +8,22 @@ Syracuse University IST 736 Text Mining Final Project
 Contributors: Richard Dzidzornu, Richard Paterson, Michael Znidarsic
 # Storyboard
 ## In Progress
-- [ ] Identify sources
-- [ ] Clarify approach
+- [ ] Finalize project writeup
+- [ ] Composite Modeling
 ## ToDo (initial thoughts!)
-- [ ] Gather data - initial acquisition and analysis of data
-- [ ] Associated Rules mining
-- [ ] Predict ratings
-- [ ] Topic Modelling of Talk
-- [ ] EDA
-- [ ] Modeling
-- [ ] Reporting     
-- [ ] Presentation slides: Ppt
+
 ## Complete
 - [x] Obtained initial data for observation from [Kaggle All-The-New](https://www.kaggle.com/snapcrack/all-the-news)
 - [x] Project Overview (delivered and agreed 11/6)
 - [x] Create File Based Corpus from file with labeled observations
 - [x] Mallet Topic Modeling with multiple topic sets using File Based Corpus
-- [x] Mallet Charting
+- [x] Mallet Modeling and Charting
+- [x] Final Project Presentation
+- [x] Vectorization
+- [x] Sentiment Modeling and Charting
+- [x] Veracity Classification and Charting
+- [x] Binary Classification and Charting
+- [x] Author Type Classification and Charting
 ## Execution Instructions
 - [Step 1: Create File Based Corpus](https://github.com/richpatanalytics/FakeNewsAnalysis/blob/master/FakeNewsExecutionInstructions.pptx)
 - [Step 2: Mallet Topic Modeling](https://github.com/richpatanalytics/FakeNewsAnalysis/blob/master/FakeNewsExecutionInstructions.pptx)
