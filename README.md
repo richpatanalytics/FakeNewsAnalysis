@@ -24,6 +24,7 @@ Contributors: Richard Dzidzornu, Richard Paterson, Michael Znidarsic
 - [x] Veracity Classification and Charting
 - [x] Binary Classification and Charting
 - [x] Author Type Classification and Charting
+- [x] Features (datassets) for scoring/segmentation
 ## Execution Instructions
 - [Step 1: Create File Based Corpus](https://github.com/richpatanalytics/FakeNewsAnalysis/blob/master/FakeNewsExecutionInstructions.pptx)
 - [Step 2: Mallet Topic Modeling](https://github.com/richpatanalytics/FakeNewsAnalysis/blob/master/FakeNewsExecutionInstructions.pptx)
